@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+
+/target
+/test-paks
+/test-data
+/bleh
+
+Cargo.lock

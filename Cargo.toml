@@ -1,0 +1,18 @@
+[package]
+name = "rust-unreal-unpak"
+version = "0.1.0"
+authors = ["Jack Fox <0xdeadbeef1@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+async-trait = "0.1.50"
+thiserror = "1.0.24"
+lazy_static = "1.4.0"
+tokio-byteorder = "0.3.0"
+compress = "0.2.1"
+
+[dependencies.tokio]
+version = "1"
+features = ["full"]
