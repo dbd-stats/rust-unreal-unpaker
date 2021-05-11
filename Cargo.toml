@@ -1,8 +1,10 @@
 [package]
 name = "rust-unreal-unpak"
+description = "A rust tool to read UE's pak files"
 version = "0.1.0"
 authors = ["Jack Fox <0xdeadbeef1@gmail.com>"]
 edition = "2018"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
