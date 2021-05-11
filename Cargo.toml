@@ -1,6 +1,7 @@
 [package]
 name = "rust-unreal-unpak"
 description = "A rust tool to read UE's pak files"
+repository = "https://github.com/dbd-stats/rust-unreal-unpaker"
 version = "0.1.0"
 authors = ["Jack Fox <0xdeadbeef1@gmail.com>"]
 edition = "2018"
